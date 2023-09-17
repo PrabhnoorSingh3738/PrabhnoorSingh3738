@@ -29,3 +29,7 @@
 <hr>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prabhnoorsingh3738&theme=gruvbox" alt="prabhnoorsingh3738" /></p>
+
+<hr>
+
+[![Prabhnoor's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PrabhnoorSingh3738&theme=gruvbox)](https://github.com/PrabhnoorSingh3738/github-readme-activity-graph)
